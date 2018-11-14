@@ -1,0 +1,25 @@
+		
+
+									Details for the Train
+
+
+
+Source Station Code											:-	PNBE
+
+Destination Station Code									:-	MGS
+
+Source Station Departure Time (hh:mm)						:-	10:10
+
+Destination Station Arrival Time (hh:mm)					:-	13:55
+
+Days of Origin from Source (In Order SMTWTFS)				:-	{ 'N', 'M', 'N', 'N', 'N', 'N', 'N'}
+
+Intermediate Halting Stations Code							:-	{ "ARA", "BXR", "SLD"}
+	
+Halt Duration at Intermediate Halting Stations (hh:mm)		:-	{ "00:02", "00:04", "00:01"}
+
+Day Number of Arrival at Destination Station 				:-	1
+
+Maximum Speed of the Train (In Km/h)						:-	60
+
+Train Type (0-13)											:-	9
